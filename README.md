@@ -5,5 +5,4 @@ It will be  3 tier application,
 2. Backend: Python and Flask
 3. Database: mysql
 
-![](homepage.JPG)
 
